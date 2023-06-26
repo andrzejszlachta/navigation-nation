@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/navigation-nation/
 
 ## Overview
 
-description
+Animated navigation
 
 ### Built With
 
@@ -19,8 +19,7 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
-
+1. Click hamburger to switch navigation
 ## Contact
 
 andrzej.szlachta@mail.com  
@@ -28,4 +27,4 @@ https://andrzejszlachta.github.io/
 
 ## Acknowledgements
 
-acknowledgments
+JavaScript Web Projects: 20 Projects to Build Your Portfolio
